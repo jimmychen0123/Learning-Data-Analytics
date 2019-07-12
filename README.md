@@ -7,4 +7,7 @@ A brief explination of what I do in each file:
 -Alway use copy to protect the original data being manipulate by mistake. </br>
 -Chart shows the most watched videos and the top 5% and the bottom 5% of the users for their total count of video access. </br>
 
+Interaction between excel and ppt file:</br>
+-Shows the interaction between excel(07_01) and ppt file in different option(Linked, Picture, Embed).</br>
+
 
